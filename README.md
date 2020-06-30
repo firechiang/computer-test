@@ -9,4 +9,4 @@
 
 
 
-[1]: https://github.com/firechiang/computer-test/tree/master/docs/install.md
+[1]: https://github.com/firechiang/computer-test/blob/master/computer-test-theoretical/docs/assembly.md
